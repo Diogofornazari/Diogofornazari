@@ -1,55 +1,116 @@
-# Olá, eu sou o Diogo Fornazari 👋
+# Olá, eu sou Diogo Fornazari 👋
 
-## ⚙️ Engenharia de Automação, IA e Soluções Escaláveis
+## Coordenador de Manutenção de Software | Desenvolvedor de Software | Especialista em Soluções Tecnológicas
 
-Profissional com experiência em infraestrutura, desenvolvimento, automação e análise de dados, atualmente aprofundando conhecimentos em:
+Profissional de Tecnologia da Informação com mais de 15 anos de experiência em desenvolvimento de software, infraestrutura, suporte corporativo, gestão de projetos e liderança técnica.
 
-- Engenharia de Automação
-- Integrações com IA
-- APIs e microsserviços
-- DevOps & Cloud
-- Observabilidade
-- Plataformas escaláveis
-- AI-Native Development
+Atualmente atuo como Coordenador de Manutenção de Software na SETI Tecnologia, trabalhando com análise técnica, resolução de incidentes, manutenção de sistemas corporativos, integrações, automação e utilização de Inteligência Artificial aplicada ao desenvolvimento.
 
 ---
 
-# 🧩 Interesses Técnicos
+## 🚀 Tecnologias e Ferramentas
 
-- AI Integrations
-- AI Agents
-- Backend Engineering
-- DevOps
-- Observabilidade
-- APIs & Automação
-- Cloud Architecture
-- Engenharia de Plataformas
-- Data Engineering
-- Infrastructure as Code
+### Linguagens
+
+* Python
+* PHP
+* Java
+* C++
+* SQL
+
+### Desenvolvimento
+
+* APIs REST
+* Integração de Sistemas
+* Git / GitHub
+* Testes e Homologação
+* Debugging e Troubleshooting
+
+### IA Aplicada ao Desenvolvimento
+
+* Cursor AI
+* Claude
+* Engenharia de Prompts
+* Desenvolvimento Assistido por IA
+* Geração e Revisão de Código
+* Documentação Assistida por IA
+
+### Dados e Analytics
+
+* Power BI
+* Análise de Dados
+* Business Intelligence
+* Ciência de Dados
+* Tratamento e Preparação de Dados
+
+### DevOps e Infraestrutura
+
+* Docker
+* Linux
+* Windows Server
+* Redes Corporativas
+* Virtualização
+* Administração de Servidores
 
 ---
 
-# 🌎 Idiomas
+## 🎓 Formação
 
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Fluente
-- 🇪🇸 Espanhol — Avançado
+### Pós-Graduação em Ciência de Dados e Inteligência Artificial
+
+UniSENAI (Concluído)
+
+### Análise e Desenvolvimento de Sistemas
+
+Estácio
+
+### Bacharelado em Direito
+
+FAMEG
+
+### Técnico em Informática com Ênfase em Redes
+
+SENAI
+
+---
+
+## 📜 Certificações
+
+* Claude 101 – Anthropic
+* Cursor com Python: Desenvolvimento Inteligente com IA
+* Formação GitHub Certification – DIO
+* Power BI – Santander
+* Linux Avançado para Desenvolvedores
+* Docker Fundamentals
+* Cisco CCNA I e II
 
 ---
 
-# ⚡ Perfil Técnico
+## 🌎 Idiomas
 
-- Forte experiência com troubleshooting e ambientes críticos
-- Background multidisciplinar em infraestrutura, sistemas e dados
-- Facilidade em absorver novas tecnologias
-- Foco em automação, escalabilidade e eficiência operacional
-- Interesse contínuo em IA aplicada e engenharia moderna
+* Inglês: Avançado
+* Espanhol: Intermediário
 
 ---
 
-# 📫 Contato
+## 🎯 Interesses Atuais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+* Inteligência Artificial aplicada ao desenvolvimento
+* Ciência de Dados
+* Machine Learning
+* Automação de Processos
+* Engenharia de Software
+* Arquitetura de Sistemas
+* DevOps
+* Soluções Corporativas
 
 ---
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/diogo-a-fornazari/
+* E-mail: [difornazari10@gmail.com](mailto:difornazari10@gmail.com)
+
+---
+
+*"Tecnologia é mais valiosa quando transforma problemas complexos em soluções simples e eficientes."*
